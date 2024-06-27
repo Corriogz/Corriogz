@@ -1,0 +1,8 @@
+- 👋 Hi, I’m @Corriogz
+- 👀 My goal: Is to obtain an entry level position in Cyber Security. 
+- 🌱 I’m currently learning about Linux.
+- 💞️ I’m interested in Cyber Security and nature.
+- 📫 How to reach me: corriogz@gmail.com
+- 😄 Pronouns: She/her
+- ⚡ Fun fact: I am a Twin.
+- ✨ Certifications: Currently working on obtaining a Google Cyber Security and CompTIA Security+ certifications
