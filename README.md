@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Corriogz
+- 👋 Hi, my name is Corri
 - 👀 My goal: Is to obtain an entry level position in Cyber Security. 
 - 🌱 I’m currently learning about Linux.
 - 💞️ I’m interested in Cyber Security and nature.
